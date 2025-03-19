@@ -49,7 +49,7 @@ This project is currently under development. Contributions will be open soon! St
 ---
 
 ## 📧 **Contact**  
-👨‍💻 **Developed by:** [Awais Ahmed](https://github.com/awais7012)  
+👨‍💻 **Developed by:** [Awais (Romeo)](https://github.com/awais7012)  
 📧 **Email:** ahmedawais1009@gmail.com  
 
 ---
